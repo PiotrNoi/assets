@@ -1,0 +1,29 @@
+{
+    "name": "NOI Token (NOI)",
+    "type": "ERC20",
+    "symbol": "NOI",
+    "decimals": 18,
+    "website": "https://www.noiexchange.net/",
+    "description": "NOI Exchange is an innovative hybrid cryptocurrency exchange that combines decentralized solutions with traditional trading features. Our platform offers fast and convenient token exchanges with minimal fees, while also providing telephone support for clients in 18 languages.\n\n",
+    "explorer": "https://etherscan.io/token/0x4793405c2231D8646F8ee79E120c230c574b0c4B",
+    "status": "active",
+    "id": "0x4793405c2231D8646F8ee79E120c230c574b0c4B",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/ExchangeNoi"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/NOI_Exchange"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/share/1XVwARazyz/?mibextid=wwXIfr"
+        }
+    ],
+    "tags": [
+        "defi",
+        "stablecoin"
+    ]
+}
